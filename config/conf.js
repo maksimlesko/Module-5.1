@@ -4,7 +4,7 @@ exports.config = {
 	browserName: 'chrome'
   },
 
-  chromeDriver:'../node_modules/protractor/node_modules/webdriver-manager/selenium/chromedriver_2.26',
+  chromeDriver:'../node_modules/protractor/node_modules/webdriver-manager/selenium/chromedriver_2.31',
 
   framework: 'jasmine',
 
